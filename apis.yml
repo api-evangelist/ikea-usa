@@ -1,0 +1,111 @@
+aid: ikea-usa
+name: IKEA U.S.
+kind: company
+description: >-
+  IKEA U.S. is the United States retail operation of IKEA, run by Ingka Group,
+  the largest IKEA franchisee. The U.S. business operates ~50+ full-service
+  stores, ~40+ Plan & Order Points, and ~80+ pick-up locations across the
+  country, alongside the ikea.com/us e-commerce site and the IKEA mobile app.
+  Inter IKEA Systems B.V. separately owns the IKEA Concept and brand. IKEA
+  U.S. offers home furnishings, kitchens, appliances, lighting, the IKEA
+  Family loyalty program, the IKEA Business Network for B2B customers, home
+  delivery and Click & Collect, design and planning services, the Buy Back &
+  Resell program, and IKEA Home smart products controlled via the IKEA Home
+  smart and IKEA Home smart 1 apps. IKEA U.S. does not publish a public
+  developer API; supplier and trading-partner integrations are handled
+  through IKEA's vendor systems and Ingka Group's internal digital platforms.
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/ikea-usa/refs/heads/main/apis.yml
+image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+type: Index
+access: Internal
+position: Consuming
+tags:
+  - B2B
+  - Big-Box
+  - Buy Back
+  - Click And Collect
+  - Delivery
+  - E-commerce
+  - Furniture
+  - Home Furnishings
+  - Home Smart
+  - IKEA Family
+  - Kitchen
+  - Loyalty
+  - Mobile App
+  - Planning Tools
+  - Retail
+  - Smart Home
+  - Sustainability
+  - Swedish
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.ikea.com/us/en/
+  - type: AboutUs
+    url: https://www.ikea.com/us/en/this-is-ikea/about-us/
+  - type: ThisIsIKEA
+    url: https://www.ikea.com/us/en/this-is-ikea/
+  - type: ParentCompany
+    url: https://www.ingka.com/
+  - type: Brand
+    url: https://www.inter.ikea.com/
+  - type: Stores
+    url: https://www.ikea.com/us/en/stores/
+  - type: CustomerService
+    url: https://www.ikea.com/us/en/customer-service/
+  - type: ContactSupport
+    url: https://www.ikea.com/us/en/customer-service/support/
+  - type: FAQ
+    url: https://www.ikea.com/us/en/customer-service/faq/
+  - type: ReturnsAndClaims
+    url: https://www.ikea.com/us/en/customer-service/returns-claims/
+  - type: Delivery
+    url: https://www.ikea.com/us/en/customer-service/services/delivery/
+  - type: Services
+    url: https://www.ikea.com/us/en/customer-service/services/
+  - type: IKEAFamily
+    url: https://www.ikea.com/us/en/ikea-family/
+  - type: IKEAFamilySignup
+    url: https://www.ikea.com/us/en/profile/signup/family/
+  - type: IKEABusinessNetwork
+    url: https://www.ikea.com/us/en/ikea-business/
+  - type: BusinessSignup
+    url: https://www.ikea.com/us/en/business-profile/register-network
+  - type: MobileApps
+    url: https://www.ikea.com/us/en/customer-service/mobile-apps/
+  - type: IKEAApp
+    url: https://www.ikea.com/us/en/ikea-app/
+  - type: HomeSmartApp
+    url: https://apps.apple.com/nl/app/ikea-home-smart/id1633226273
+  - type: HomeSmartAppAndroid
+    url: https://play.google.com/store/apps/details?id=com.ikea.inter.homesmart.system2
+  - type: HomeSmartLegacyApp
+    url: https://apps.apple.com/nl/app/ikea-home-smart-tr%C3%A5dfri/id1195836071
+  - type: HomeSmartLegacyAppAndroid
+    url: https://play.google.com/store/apps/details?id=com.ikea.tradfri.lighting
+  - type: Newsroom
+    url: https://www.ikea.com/us/en/newsroom/
+  - type: PressContact
+    url: mailto:press.us@ikea.com
+  - type: GitHub
+    url: https://github.com/ingka-group-digital
+  - type: Facebook
+    url: https://www.facebook.com/IKEAUSA
+  - type: Instagram
+    url: https://www.instagram.com/ikeausa/
+  - type: YouTube
+    url: https://www.youtube.com/user/IKEAUSA
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/ikea
+  - type: Pinterest
+    url: https://www.pinterest.com/ikeausa/
+  - type: TikTok
+    url: https://www.tiktok.com/@ikeausa
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
