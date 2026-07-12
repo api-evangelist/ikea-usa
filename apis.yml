@@ -44,6 +44,10 @@ modified: '2026-05-23'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: VulnerabilityDisclosure
+    url: security/ikea-usa-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/ikea-usa-domain-security.yml
   - type: Website
     url: https://www.ikea.com/us/en/
   - type: AboutUs
