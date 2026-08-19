@@ -52,7 +52,7 @@ tags:
   - Swedish
 created: '2026-05-23'
 modified: '2026-05-23'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 apis: []
 common:
   - type: VulnerabilityDisclosure
