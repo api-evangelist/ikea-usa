@@ -1,0 +1,18 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/ikea-usa/integrations
+- https://zapier.com/apps/ikea-u-s/integrations
+- https://n8n.io/integrations/ikea-usa/
+- https://composio.dev/toolkits/ikea-usa
+- https://monid.ai/tools/ikea-usa
+checked:
+- https://composio.dev/toolkits/ikea-usa
+- https://monid.ai/tools/ikea-usa
+- https://n8n.io/integrations/ikea-usa/
+- https://zapier.com/apps/ikea-u-s/integrations
+- https://zapier.com/apps/ikea-usa/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
