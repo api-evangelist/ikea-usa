@@ -1,4 +1,4 @@
-# IKEA U.S. (ikea-usa)
+# IKEA U.S.
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,47 +64,81 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-IKEA U.S. is the United States retail operation of IKEA, run by Ingka Group, the largest IKEA franchisee. The U.S. business operates roughly 50 full-service stores, ~40 Plan & Order Points, and ~80 pick-up locations, alongside ikea.com/us and the IKEA mobile app. Inter IKEA Systems B.V. separately owns the IKEA Concept and brand. IKEA U.S. does not publish a public developer API; partner integrations run through IKEA's vendor systems and Ingka Group's internal digital platforms.
+IKEA U.S. is the United States retail operation of IKEA, run by Ingka Group, the largest IKEA franchisee. The U.S. business operates ~50+ full-service stores, ~40+ Plan & Order Points, and ~80+ pick-up locations across the country, alongside the ikea.com/us e-commerce site and the IKEA mobile app. Inter IKEA Systems B.V. separately owns the IKEA Concept and brand. IKEA U.S. offers home furnishings, kitchens, appliances, lighting, the IKEA Family loyalty program, the IKEA Business Network for B2B customers, home delivery and Click & Collect, design and planning services, the Buy Back & Resell program, and IKEA Home smart products controlled via the IKEA Home smart and IKEA Home smart 1 apps. IKEA U.S. does not publish a public developer API; supplier and trading-partner integrations are handled through IKEA's vendor systems and Ingka Group's internal digital platforms.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/ikea-usa/refs/heads/main/apis.yml)
+**Areas:** B2B · Big-Box · Buy Back · Click and Collect · Delivery · E-Commerce · Furniture · Home Furnishings · Home Smart · IKEA Family · Kitchen · Loyalty
 
-## Scope
+## IKEA U.S. on APIs.io
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** Internal
-- **x-type:** company
+Everything profiled for IKEA U.S. is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ikea-usa/](https://apis.io/providers/ikea-usa/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### Published properties
 
-- B2B, Big-Box, Buy Back, Click And Collect, Delivery, E-commerce, Furniture, Home Furnishings, Home Smart, IKEA Family, Kitchen, Loyalty, Mobile App, Planning Tools, Retail, Smart Home, Sustainability, Swedish
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Timestamps
+#### Security (2)
 
-- **Created:** 2026-05-23
-- **Modified:** 2026-05-23
+Authentication, trust centre, and vulnerability disclosure.
 
-## APIs
+- [Ikea Usa Domain Security](https://apis.io/security/ikea-usa/ikea-usa-domain-security/)
+- [Ikea Usa Vulnerability Disclosure](https://apis.io/security/ikea-usa/ikea-usa-vulnerability-disclosure/)
 
-No public APIs have been documented. IKEA U.S. is a consumer-retail and B2B-loyalty surface (IKEA Family, IKEA Business Network) with no public developer portal; the parent Ingka Group's GitHub organization (`ingka-group-digital`) currently publishes no public repositories.
+## Where to find this API
 
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.ikea.com/us/en/)
-- [About Us](https://www.ikea.com/us/en/this-is-ikea/about-us/)
-- [Parent Company - Ingka Group](https://www.ingka.com/)
-- [Brand - Inter IKEA Systems](https://www.inter.ikea.com/)
-- [Stores](https://www.ikea.com/us/en/stores/)
-- [Customer Service](https://www.ikea.com/us/en/customer-service/)
-- [Delivery](https://www.ikea.com/us/en/customer-service/services/delivery/)
-- [IKEA Family](https://www.ikea.com/us/en/ikea-family/)
-- [IKEA Business Network](https://www.ikea.com/us/en/ikea-business/)
-- [Mobile Apps](https://www.ikea.com/us/en/customer-service/mobile-apps/)
-- [Newsroom](https://www.ikea.com/us/en/newsroom/)
-- [GitHub - Ingka Group Digital](https://github.com/ingka-group-digital)
-- [LinkedIn](https://www.linkedin.com/company/ikea)
+- [Support](https://www.ikea.com/us/en/customer-service/)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
-**Email:** kin@apievangelist.com
+**Kin Score 6.1** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 4.8 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 11.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ikea-usa/](https://apis.io/providers/ikea-usa/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for IKEA U.S.: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ikea-usa/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
